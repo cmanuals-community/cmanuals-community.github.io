@@ -1,4 +1,10 @@
 [
-  { "section": "Introduction", "content": "Learn the basics of C programming..." },
-  { "section": "Syntax", "content": "Understand the rules and structure of C code..." }
+    {
+        "section": "Introduction",
+        "content": "This section covers the basics of C programming, including syntax and structure."
+    },
+    {
+        "section": "Syntax",
+        "content": "Learn how to write your first C program with proper syntax and guidelines."
+    }
 ]
